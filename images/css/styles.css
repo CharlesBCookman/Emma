@@ -1,0 +1,8 @@
+.imagearea {
+  display: flex;
+  width: auto;
+}
+
+.emmaimage {
+  width: fit-content;
+}
